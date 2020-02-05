@@ -12,7 +12,7 @@ If you want to download our dataset, please visit [MalDevGenome](https://zenodo.
 # Malware Developers Information
 In MalDevGenome, We have collected 1,411,830 apps from 10,708 different malware developers. These apps belongs to 1,035 different malware families. In this page, we show all the 10,708 malware developers information, including developer signature, developer name, # of released apps, # of malware apps under different AV-Rank, # of malware families, developer active time, etc.
 
-For more details, please click [Malware Developer Information](https://dotar2009.github.io/developer) or [download](https://github.com/dotar2009/dotar2009.github.io/blob/master/malware_developer.xlsx) the file.<br/>
+For more details, please click [Malware Developer Information](https://maldevgenome.github.io/developer) or [download](https://github.com/MalDevGenome/MalDevGenome.github.io/blob/master/malware_developer.xlsx) the file.<br/>
 
 
 # Online Search Server
