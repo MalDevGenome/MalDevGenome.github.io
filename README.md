@@ -2,7 +2,7 @@
 <center>Guoai Xu; Ren He; Haoyu Wang</center>
 
 # Introduce
-This webpage providers malware developers information for the paper "MalDevGenome: A Longitudinal and Large-Scale AndroidMalware Developer Dataset" in submission of the 17th International Conference on Mining Software Repositories (MSR 2020), Data Showcase Track.
+This webpage providers malware developers information for the paper "MalDevGenome: A Longitudinal and Large-Scale AndroidMalware Developer Dataset".
 
 # Dataset
 If you want to download our dataset, please visit [MalDevGenome](https://zenodo.org/record/3631262).<br/>
